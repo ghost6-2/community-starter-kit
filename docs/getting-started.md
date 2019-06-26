@@ -35,4 +35,9 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Hello World!
+Bonjour!
+Guten Tag!
+Dobri dan!
+Dobar dan!
+
